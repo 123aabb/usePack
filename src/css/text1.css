@@ -1,0 +1,13 @@
+body{
+  background: cornflowerblue;
+}
+#box1{
+     width: 100px;
+     height: 60px;
+     background-image:url("../images/bg.jpg");
+ }
+#box2{
+    width: 80px;
+    height: 10px;
+    background-image:url("../images/birds.png");
+}
